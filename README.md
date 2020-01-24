@@ -8,6 +8,10 @@ for PHP apps to run on HHVM.
 The buildpack will detect your app as PHP if it has a `index.php` or `composer.json` file in the 
 root. 
 
+## NOTE
+
+This repo is no longer being maintained. Users are welcome to fork it, but we make no warranty of its functionality.
+
 ## Usage
 
 To use it with a new app:
